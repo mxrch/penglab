@@ -1,5 +1,5 @@
 # Penglab
-Abuse of Google Colab for fun and profit. 🐬
+Abuse of Google Colab for fun and profit. 🐧
 
 https://colab.research.google.com/github/mxrch/penglab/blob/master/penglab.ipynb
 
