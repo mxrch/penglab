@@ -13,7 +13,7 @@ It installs by default :
 * Hydra
 * SSH (with ngrok).
 
-You only need a Google Account to use Google Colab, and to use ngrok for SSH.
+You only need a Google Account to use Google Colab, and to use ngrok for SSH (optional).
 
 ## How to use it ?
 1. Go on : https://colab.research.google.com/github/mxrch/penglab/blob/master/penglab.ipynb
