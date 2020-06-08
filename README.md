@@ -11,7 +11,11 @@ It installs by default :
 * Hashcat
 * John
 * Hydra
-* SSH (with ngrok).
+* SSH (with ngrok)
+
+And now, it can also :
+* Launch an integrated shell
+* Download the wordlists Rockyou and HashesOrg2019 quickly !
 
 You only need a Google Account to use Google Colab, and to use ngrok for SSH (optional).
 
