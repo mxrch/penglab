@@ -1,7 +1,7 @@
 # Penglab
 Abuse of Google Colab for fun and profit. 🐧
 
-https://colab.research.google.com/github/mxrch/penglab/blob/master/penglab.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mxrch/penglab/]
 
 ## What is it ?
 
