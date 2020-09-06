@@ -5,7 +5,7 @@ Abuse of Google Colab for fun and profit. 🐧
 
 ## What is it ?
 
-**Penglab** is a ready-to-install setup on Google Colab for cracking passwords with an incredible power, really useful for CTFs. *(See benchmarks below.)*
+**Penglab** is a ready-to-install setup on Google Colab for cracking hashes with an incredible power, really useful for CTFs. *(See benchmarks below.)*
 
 It installs by default :
 * Hashcat
