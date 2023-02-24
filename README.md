@@ -28,6 +28,9 @@ You only need a Google Account to use Google Colab, and to use ngrok for SSH (op
 ## What is Google Colab ?
 Google Colab is a free cloud service, based on Jupyter Notebooks for machine-learning education and research. It provides a runtime fully configured for deep learning and free-of-charge access to a robust GPU.
 
+## Warning
+Google Colab prohibits the use of their services for certain actions, including password cracking. By using **Penglab**, you risk getting your Google Colab blocked from accessing Colab runtimes (which is what makes this tool great). **Use at your own risks**.
+
 ## Benchmarks
 
 #### Hashcat Benchmark :
